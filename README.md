@@ -1,5 +1,5 @@
 # alexa-autostart-boot
-Run Amazon Alexa automatically on boot on Raspberry Pi easily.
+Run Amazon Alexa automatically on boot on Raspberry Pi easily using screen.
 
 ## Install screen
 
